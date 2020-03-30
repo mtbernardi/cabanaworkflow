@@ -1,5 +1,10 @@
 # cabanaworkflow
 
+.box-padding #boxed-text {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
 ---?color=black
 
 @snap[north-west span-35]
